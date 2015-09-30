@@ -74,6 +74,7 @@ public class User implements IUser {
 	// Created for GitLab Part 4 Step 3
 	public void uselessFunction(){
 		 int i;
+		 String uselessString;
 		 i=1000;
 	}
 }
