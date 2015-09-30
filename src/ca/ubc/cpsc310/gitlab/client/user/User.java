@@ -75,6 +75,8 @@ public class User implements IUser {
 	public void uselessFunction(){
 		 int i;
 		 String uselessString;
+
 		 i=1000;
+
 	}
 }
